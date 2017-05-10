@@ -8,4 +8,5 @@ end
 target 'UnitTest' do
   pod 'GoogleMaps'
   pod 'OCMock'
+	pod 'Google-Maps-iOS-Utils'
 end

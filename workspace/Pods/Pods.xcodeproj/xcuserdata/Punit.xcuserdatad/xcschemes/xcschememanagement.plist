@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>OCMock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-DevApp.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -27,12 +32,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5A91A6A30F3299CC888C30EFA99EBC06</key>
+		<key>A4F8C2DC4FB48FE107D72076069E2459</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A4F8C2DC4FB48FE107D72076069E2459</key>
+		<key>A561198B7669F579C29FC6864AE4991F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D7B8A1C6096EF84E54200F74EB9BD67B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
